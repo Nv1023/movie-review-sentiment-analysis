@@ -128,6 +128,10 @@ The project demonstrates a complete **Natural Language Processing (NLP) workflow
 
 ---
 
+## Dataset used in this project
+https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-3/data
+
+---
 
 👤 Author
 
